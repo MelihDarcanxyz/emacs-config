@@ -9,3 +9,14 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+elpaca/
+auto-save-list/
+eshell/
+transient/
+
+session*
+
+projectile-bookmarks.eld
+
+recentf*
